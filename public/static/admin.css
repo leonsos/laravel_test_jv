@@ -1,0 +1,15 @@
+.header-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.td-form{
+    display: flex;
+    justify-content: end;
+}
+.td-form button{
+    margin-right: 2px;
+}
+.header-dashboard{
+    display: flex;
+    justify-content: space-between;
+}
